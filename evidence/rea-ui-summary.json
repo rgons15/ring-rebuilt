@@ -1,0 +1,401 @@
+{
+  "source_ipa_sha256": "a738cc9e852a02d6038981739febaf1c0a0be979082141b716207c3091853e39",
+  "main_sha256": "6623692728ab8a910cc1d7059c3931667fdb944b1e7381f827fffcd5d62b2a7c",
+  "ui_decode_evidence_id": "ev_f69fb9e578577bdc3a7f86709de5f08a7af477523a56484e69e8d64804d999f7",
+  "scope": "Explicit 20-file subset; 17 UI documents decoded; not complete app UI",
+  "document_count": 17,
+  "node_count": 616,
+  "edge_count": 158,
+  "limitations": [
+    "The graph reflects recognized Interface Builder archive fields and connections; omitted private or unrecognized archive fields remain unknown.",
+    "A target-action selector is an Interface Builder observation and does not prove that the binary contains a matching implementation.",
+    "Decoded constraints, runtime visibility, dynamic UI creation, and pixel geometry are not inferred from these archives.",
+    "Compiled Interface Builder archives are private serialized object graphs. The decoder reports only recognized keyed-archive objects and connections; unrecognized object classes and fields remain unknown."
+  ],
+  "documents": [
+    {
+      "archive_sha256": "c7c820123b980aacd6d1905090fce1fb5f86ee5b2e6c8afa5f4bb4000a6f125f",
+      "connection_count": 1,
+      "document_kind": "storyboard_scene",
+      "hierarchy_complete": false,
+      "object_count": 20,
+      "relative_path": "Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib"
+    },
+    {
+      "archive_sha256": "54f3637f671feba5f19e82ec4f4a7fb448bb3cfc0fb180f089aa571fc8f053e2",
+      "connection_count": 2,
+      "document_kind": "storyboard_scene",
+      "hierarchy_complete": false,
+      "object_count": 4,
+      "relative_path": "Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib"
+    },
+    {
+      "archive_sha256": "0715cc4abd4727d79bfb1483517624516cfd782d70867a6ef3c8a297d05e24eb",
+      "connection_count": 2,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 22,
+      "relative_path": "BaseStationConnectionInProgressView.nib"
+    },
+    {
+      "archive_sha256": "703086582c3482db646a1d0c0344f820ebced480ff4799400a3c3f5079102b27",
+      "connection_count": 8,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 55,
+      "relative_path": "DatePickerView.nib"
+    },
+    {
+      "archive_sha256": "4814dc1f6007ce513f11d99318e8ce5e6cd324c242e3b056757614179d1e811e",
+      "connection_count": 5,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 36,
+      "relative_path": "DeviceFirmwareUpdateTableViewHeader.nib"
+    },
+    {
+      "archive_sha256": "3b6d790ef65ed973e9d4c47812d72d37664bfc8155a8cd1b2f6a25bc5c4519b0",
+      "connection_count": 1,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 18,
+      "relative_path": "ImpulseNotificationView.nib"
+    },
+    {
+      "archive_sha256": "35d14b67825b3fc1021d28b3a0f621d14f29ad1755a7297e78b152d3b4bd88f0",
+      "connection_count": 10,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 73,
+      "relative_path": "LightsGroupBeamCell.nib"
+    },
+    {
+      "archive_sha256": "dbd15f3dd456b6afc0cc9e216fa64091caa12fc08c3c112638c5456907fff236",
+      "connection_count": 5,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 31,
+      "relative_path": "MotionSensitivityCell.nib"
+    },
+    {
+      "archive_sha256": "e782d0ac8b252d92f12dfb33bb948ca3c8cad341ec2d83ab5e6db1a1988934dd",
+      "connection_count": 3,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 20,
+      "relative_path": "PromotionsDashboardCell.nib"
+    },
+    {
+      "archive_sha256": "1b54b8a30023ef8c0cda59002eb9803717ed519fae34e732ccfbb5546896ee71",
+      "connection_count": 7,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 40,
+      "relative_path": "RDSIconSwitchTableViewCell.nib"
+    },
+    {
+      "archive_sha256": "59de0276cae4642d2326de281b010f261e293c9664d01bf9741c3ee0dd53994e",
+      "connection_count": 7,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 40,
+      "relative_path": "RDSIconValueTableViewCell.nib"
+    },
+    {
+      "archive_sha256": "a2543dae40927f148ae2fe809e4209d6e2710d393710d713a1761e0e0a357028",
+      "connection_count": 4,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 32,
+      "relative_path": "RightButtonSectionHeaderView.nib"
+    },
+    {
+      "archive_sha256": "c9ea4f6f9f86c3e729d33d235b5fa8d9ebb2bd1bc5ac65fe65468bc635dd3e46",
+      "connection_count": 3,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 15,
+      "relative_path": "ShortcutsDashboardCell.nib"
+    },
+    {
+      "archive_sha256": "a9f6679bcf20bbaa20c6a7adad0402e385c2e40e23fc125fbed22e85844ec121",
+      "connection_count": 6,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 40,
+      "relative_path": "ShortcutsStatusCollectionViewCell.nib"
+    },
+    {
+      "archive_sha256": "f112b3271dbfe88896193b8ebb14208014c5de4e6c05b331610a0f9dda0e0385",
+      "connection_count": 3,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 13,
+      "relative_path": "SquareTileContainerTableViewCell.nib"
+    },
+    {
+      "archive_sha256": "e7955ec5edf5d6de00efaec93f907e379cc42d543baa4c4eb0ba71088a865304",
+      "connection_count": 8,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 39,
+      "relative_path": "UpdateIndicationRightActionButtonTableViewCell.nib"
+    },
+    {
+      "archive_sha256": "c031ea76ab14f14b87c9641b110cb5fe68c6fdcd19e8ce8f273e748245d1472a",
+      "connection_count": 2,
+      "document_kind": "nib",
+      "hierarchy_complete": false,
+      "object_count": 20,
+      "relative_path": "ZFDeviceListControlLabel1View.nib"
+    }
+  ],
+  "motion_control_observations": [
+    {
+      "kind": "unknown",
+      "name": "_TtC8RingSafe5Label",
+      "attributes": {
+        "class_name": "_TtC8RingSafe5Label",
+        "interface_builder_object_id": "10",
+        "nibValues": {
+          "UIAutoresizeSubviews": false,
+          "UIAutoresizingMask": 36,
+          "UIBounds": {
+            "$nib_data_base64": "BwAAAAAAAAAAAAAAAAAAAAAAAAAAALBqQAAAAAAAADVA"
+          },
+          "UICenter": {
+            "$nib_data_base64": "BwAAAAAAWGBAAAAAAACAPEA="
+          },
+          "UIClassName": "_TtC8RingSafe5Label",
+          "UIContentMode": 7,
+          "UIDeepDrawRect": false,
+          "UIDisableUpdateTextColorOnTraitCollectionChange": true,
+          "UIFont": {
+            "objectID": "13"
+          },
+          "UIOriginalClassName": "UILabel",
+          "UIShadowOffset": {
+            "$nib_data_base64": "BwAAAAAAAAAAAAAAAAAA8L8="
+          },
+          "UIText": "Motion Detection Sensitivity",
+          "UITextAlignment": 4,
+          "UITextColor": {
+            "objectID": "21"
+          },
+          "UIUserInteractionDisabled": false,
+          "UIViewContentHuggingPriority": "{251, 251}",
+          "UIViewDoesNotTranslateAutoresizingMaskIntoConstraints": false,
+          "UIViewLargeContentStoredProperties": null,
+          "UIViewSemanticContentAttribute": 0
+        }
+      }
+    },
+    {
+      "kind": "unknown",
+      "name": "_TtC8RingSafe5Label",
+      "attributes": {
+        "class_name": "_TtC8RingSafe5Label",
+        "interface_builder_object_id": "25",
+        "nibValues": {
+          "UIAutoresizeSubviews": false,
+          "UIAutoresizingMask": 36,
+          "UIBounds": {
+            "$nib_data_base64": "BwAAAAAAAAAAAAAAAAAAAAAAAAAAAPBoQAAAAAAAgERA"
+          },
+          "UICenter": {
+            "$nib_data_base64": "BwAAAAAA8F5AAAAAAADgXUA="
+          },
+          "UIClassName": "_TtC8RingSafe5Label",
+          "UIContentMode": 7,
+          "UIDeepDrawRect": false,
+          "UIDisableUpdateTextColorOnTraitCollectionChange": true,
+          "UIFont": {
+            "objectID": "13"
+          },
+          "UINumberOfLines": 0,
+          "UIOriginalClassName": "UILabel",
+          "UIShadowOffset": {
+            "$nib_data_base64": "BwAAAAAAAAAAAAAAAAAA8L8="
+          },
+          "UIText": "LOW\u2028(FEWER EVENTS)",
+          "UITextAlignment": 4,
+          "UITextColor": {
+            "objectID": "21"
+          },
+          "UIUserInteractionDisabled": false,
+          "UIViewContentHuggingPriority": "{251, 251}",
+          "UIViewDoesNotTranslateAutoresizingMaskIntoConstraints": false,
+          "UIViewLargeContentStoredProperties": null,
+          "UIViewSemanticContentAttribute": 0
+        }
+      }
+    },
+    {
+      "kind": "control",
+      "name": "_TtC4ring17RSSegmentedSlider",
+      "attributes": {
+        "class_name": "_TtC4ring17RSSegmentedSlider",
+        "interface_builder_object_id": "27",
+        "nibValues": {
+          "UIAutoresizeSubviews": false,
+          "UIAutoresizingMask": 36,
+          "UIBehavioralStyle": 0,
+          "UIBounds": {
+            "$nib_data_base64": "BwAAAAAAAAAAAAAAAAAAAAAAAAAAALBzQAAAAAAAgEJA"
+          },
+          "UICenter": {
+            "$nib_data_base64": "BwAAAAAAcGdAAAAAAABgUUA="
+          },
+          "UIClassName": "_TtC4ring17RSSegmentedSlider",
+          "UIDeepDrawRect": false,
+          "UIOriginalClassName": "UISlider",
+          "UIValue": 0.5,
+          "UIViewContentHuggingPriority": "{250, 250}",
+          "UIViewDoesNotTranslateAutoresizingMaskIntoConstraints": false,
+          "UIViewLargeContentStoredProperties": null,
+          "UIViewSemanticContentAttribute": 0
+        }
+      }
+    },
+    {
+      "kind": "control",
+      "name": "_TtC8RingSafe11GlyphButton",
+      "attributes": {
+        "class_name": "_TtC8RingSafe11GlyphButton",
+        "interface_builder_object_id": "31",
+        "nibValues": {
+          "UIAdjustsImageWhenDisabled": false,
+          "UIAdjustsImageWhenHighlighted": false,
+          "UIAutoresizeSubviews": false,
+          "UIAutoresizingMask": 36,
+          "UIBounds": {
+            "$nib_data_base64": "BwAAAAAAAAAAAAAAAAAAAAAAAAAAAABLQAAAAAAAAEFA"
+          },
+          "UIButtonConfiguration": null,
+          "UIButtonStatefulContent": {
+            "objectID": "32"
+          },
+          "UICenter": {
+            "$nib_data_base64": "BwAAAAAAQHRAAAAAAACAPEA="
+          },
+          "UIClassName": "_TtC8RingSafe11GlyphButton",
+          "UIDeepDrawRect": false,
+          "UIFont": {
+            "objectID": "36"
+          },
+          "UIOriginalClassName": "UIButton",
+          "UIViewDoesNotTranslateAutoresizingMaskIntoConstraints": false,
+          "UIViewLargeContentStoredProperties": null,
+          "UIViewSemanticContentAttribute": 0
+        }
+      }
+    },
+    {
+      "kind": "control",
+      "name": "Button",
+      "attributes": {
+        "class_name": "UIButtonContent",
+        "interface_builder_object_id": "34",
+        "nibValues": {
+          "UITitle": "Button"
+        }
+      }
+    },
+    {
+      "kind": "unknown",
+      "name": "_TtC8RingSafe5Label",
+      "attributes": {
+        "class_name": "_TtC8RingSafe5Label",
+        "interface_builder_object_id": "42",
+        "nibValues": {
+          "UIAutoresizeSubviews": false,
+          "UIAutoresizingMask": 36,
+          "UIBounds": {
+            "$nib_data_base64": "BwAAAAAAAAAAAAAAAAAAAAAAAAAAAOBfQAAAAAAAgERA"
+          },
+          "UICenter": {
+            "$nib_data_base64": "BwAAAAAA9HFAAAAAAADgXUA="
+          },
+          "UIClassName": "_TtC8RingSafe5Label",
+          "UIContentMode": 7,
+          "UIDeepDrawRect": false,
+          "UIDisableUpdateTextColorOnTraitCollectionChange": true,
+          "UIFont": {
+            "objectID": "13"
+          },
+          "UINumberOfLines": 0,
+          "UIOriginalClassName": "UILabel",
+          "UIShadowOffset": {
+            "$nib_data_base64": "BwAAAAAAAAAAAAAAAAAA8L8="
+          },
+          "UIText": "HIGH\u2028(MORE EVENTS)",
+          "UITextAlignment": 2,
+          "UITextColor": {
+            "objectID": "21"
+          },
+          "UIUserInteractionDisabled": false,
+          "UIViewContentCompressionResistancePriority": "{752, 750}",
+          "UIViewContentHuggingPriority": "{254, 251}",
+          "UIViewDoesNotTranslateAutoresizingMaskIntoConstraints": false,
+          "UIViewLargeContentStoredProperties": null,
+          "UIViewSemanticContentAttribute": 0
+        }
+      }
+    },
+    {
+      "kind": "outlet",
+      "name": "highLabel",
+      "attributes": {
+        "archive_object_id": "67",
+        "destination-id": "42",
+        "label": "highLabel",
+        "source_id": "6",
+        "type": "outlet"
+      }
+    },
+    {
+      "kind": "outlet",
+      "name": "infoButton",
+      "attributes": {
+        "archive_object_id": "69",
+        "destination-id": "31",
+        "label": "infoButton",
+        "source_id": "6",
+        "type": "outlet"
+      }
+    },
+    {
+      "kind": "outlet",
+      "name": "lowLabel",
+      "attributes": {
+        "archive_object_id": "71",
+        "destination-id": "25",
+        "label": "lowLabel",
+        "source_id": "6",
+        "type": "outlet"
+      }
+    },
+    {
+      "kind": "outlet",
+      "name": "slider",
+      "attributes": {
+        "archive_object_id": "73",
+        "destination-id": "27",
+        "label": "slider",
+        "source_id": "6",
+        "type": "outlet"
+      }
+    },
+    {
+      "kind": "outlet",
+      "name": "titleLabel",
+      "attributes": {
+        "archive_object_id": "75",
+        "destination-id": "10",
+        "label": "titleLabel",
+        "source_id": "6",
+        "type": "outlet"
+      }
+    }
+  ]
+}

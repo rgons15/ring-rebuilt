@@ -1,0 +1,74 @@
+{
+  "swift_files": 15,
+  "syntax_errors": 0,
+  "sources": [
+    {
+      "file": "RingRebuilt\\Models\\AppStore.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Models\\Models.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\RingRebuiltApp.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\DashboardView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\DeviceDetailView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\DeviceHealthView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\DeviceSetupView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\HistoryView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\LiveView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\MotionSettingsView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\QRScannerView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\SettingsView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\Theme.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "RingRebuilt\\Views\\VideoSettingsView.swift",
+      "syntax_errors": []
+    },
+    {
+      "file": "Tests\\AppStoreTests.swift",
+      "syntax_errors": []
+    }
+  ],
+  "project_object_count": 59,
+  "xcode_project_parse": "passed",
+  "source_membership": "passed",
+  "plist_and_scheme": "passed",
+  "icon": "passed",
+  "compiler_typecheck": "not run: requires macOS and Xcode",
+  "xctest_execution": "not run: requires macOS and Xcode",
+  "device_execution": "not run: requires signed Xcode build"
+}

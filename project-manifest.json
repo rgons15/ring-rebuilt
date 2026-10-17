@@ -1,0 +1,27 @@
+{
+  "app_sources": [
+    "Models/AppStore.swift",
+    "Models/Models.swift",
+    "RingRebuiltApp.swift",
+    "Views/DashboardView.swift",
+    "Views/DeviceDetailView.swift",
+    "Views/DeviceHealthView.swift",
+    "Views/DeviceSetupView.swift",
+    "Views/HistoryView.swift",
+    "Views/LiveView.swift",
+    "Views/MotionSettingsView.swift",
+    "Views/QRScannerView.swift",
+    "Views/SettingsView.swift",
+    "Views/Theme.swift",
+    "Views/VideoSettingsView.swift"
+  ],
+  "test_sources": [
+    "Tests/AppStoreTests.swift"
+  ],
+  "targets": [
+    "RingRebuilt",
+    "RingRebuiltTests"
+  ],
+  "app_target_id": "AC44A5EE06496B21A17CA082",
+  "test_target_id": "3A0C9CEF9D8F3BC090274361"
+}
